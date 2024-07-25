@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<!-- - Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- M.S. in Aerospace Engineering, Kyushu University, 2025 (expected)
+- B.S. in Aerospace Engineering, Kyushu University, 2023
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Quando, Inc. (March 2023 – Present)
+
+  - Softfare Engineer Intern
+  - Developing a video calling application with JavaScript framework React
+
+- Retail AI X, Inc. (September 2021 – March 2023)
+  - Retail Data Analysis Intern
+  - Analysis of customer purchase data using Python
+
+## Skills
+
+- Programming
+  - Python (proficient), MATLAB (proficient), C/C++ (intermediate)
+
+## Projects
+
+- Kibo Robot Programming Challenge (April 2023 -- August 2023)
+
+  - Program a robot to fly freely in the International Space Station and perform various missions. Our team won the Japanese national competition and participated in the world competition.
+  - <i class="fa-brands fa-youtube fa-xl"></i>[YouTube](https://www.youtube.com/live/ax4H1NBqTz0?si=6emH0br-hUS0N7vg), <i class="fa-brands fa-github fa-xl"></i>[GitHub](https://github.com/Eager-Hoper/TemplateAPK)
+
+- Mini Car Racing Competition (December 2019 -- October 2020)
+  - Development of a mini car with an engine to participate in a competition organized by Cao Thang Technical College in Vietnam.
+  - <i class="fa-brands fa-github fa-xl"></i>[GitHub](https://github.com/SHIO777/TeamA)
