@@ -48,6 +48,10 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <div class="archive__item-excerpt-img" style="width: 500px; height: 300px; overflow: hidden; position: relative;">
+        <img src="{{ post.image }}" alt=""
+          style="position: absolute; top: 50%; left: 50%; height: auto; width: auto; transform: translate(-50%, -50%);">
+      </div>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
