@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tatsuya Shiotsuka"
 title_separator          : "-"
 name                     : &name "Tatsuya Shiotsuka"
-description              : &description "Master's Student at Kyushu University, Japan"
+description              : &description "Ph.D Student at Kyushu University, Japan"
 url                      : https://tatsuyashiotsuka.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shio777/shiopages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tatsuya Shiotsuka<br>塩塚 竜也"
   pronouns         : # example: "she/her"  
-  bio              : "Master's Student at Kyushu University AeroAstro"
+  bio              : "Ph.D Student at Kyushu University AeroAstro"
   location         : "Fukuoka, Japan"
   employer         : 
   uri              : # URL
