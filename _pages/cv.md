@@ -15,14 +15,15 @@ redirect_from:
 
 <!-- - Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-- M.S. in Aerospace Engineering, Kyushu University, 2025 (expected)
+- Ph.D in Aerospace Engineering, Kyushu University, 2028 (expected)
+- M.S. in Aerospace Engineering, Kyushu University, 2025
 - B.S. in Aerospace Engineering, Kyushu University, 2023
 
 ---
 
 ## Work experience
 
-### [Quando, Inc.](https://www.quando.jp/) (March 2023 – Present)
+### [Quando, Inc.](https://www.quando.jp/) (March 2023 – March 2025)
 
 - Softfare Engineer Intern
 - Developing a video calling application with JavaScript framework React
