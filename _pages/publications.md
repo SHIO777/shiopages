@@ -22,7 +22,10 @@ author_profile: true
    in _Multiphase Science and Technology_ 33 (4). [[Paper](https://www.dl.begellhouse.com/journals/5af8c23d50e0a883,0d6d6bff49b34316,033be8a2229aa574.html)]
 
 ## Conference Proceedings
-
+1. **塩塚 竜也**, 永冨 匠真, 原槙 真也, 田中 諒, 坂東 麻衣, 外本 伸治, "狭小空間でのドローン飛行における空力外乱の定量的評価," _第43回日本ロボット学会学術講演会_, 東京, 2025年9月.
+1. Sohta Katoh, **Tatsuya Shiotsuka**, Mai Bando, Shinji Hokamoto, "Nano-Satellite Swarm using Flocking Algorithm," _35th International Symposium on Space Technology and Science (ISTS)_, Tokushima, 2025.
+1. 加藤颯太, **塩塚竜也**, 坂東麻衣, 外本伸治, "Nano-Satellite Swarm へ向けた Flocking のデータ駆動解析," _第68回宇宙科学技術連合講演会_, 姫路, 2024年11月.
+1. **塩塚 竜也**, 坂東 麻衣, 外本 伸治, "動的モード分解を用いたドローンのデータ駆動型モデリング," _第42回日本ロボット学会学術講演会_, 大阪, 2024年9月.
 1. **T. Shiotsuka**, M. Bando, S. Hokamoto,
    "Data-Driven Modeling for Multirotor Autonomous Control"
    in _AIAA SCITECH 2024 Forum_, 0568, 2024. [[Paper](https://arc.aiaa.org/doi/10.2514/6.2024-0568)]
