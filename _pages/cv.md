@@ -36,12 +36,28 @@ redirect_from:
 ---
 
 ## Skills
-
-**Programming:** Python (proficient), MATLAB (proficient), C/C++ (intermediate)
+- **Programming:** C/C++ (proficient), MATLAB (proficient), Python, LaTeX
+- **Version control:** Git
+- **CAD:** SOLIDWORKS
 
 ---
 
 ## Projects
+### World Robot Summit 2025 (Octorber 2025)
+
+- Participated in the World Robot Summit 2025 Harsh Environment F-REI Challenge (Standard Disaster Robotics Drone Challenge), an international robotics competition.
+- Our team developed an telescopic-arm drone system for flight in confined and complex environments, integrating perception, mapping, and flight control.
+- My contribution focused on LiDAR-based mapping and localization, as well as the implementation of joystick-based flight control.
+
+  <i class="fa-solid fa-newspaper fa-xl"></i> [News](https://www.aero.kyushu-u.ac.jp/gcl/news/20251028_wrs2025/)
+
+  <!-- ![](/images/research/cv/image.png) -->
+  <img src="/images/research/cv/image.png" width="80%" />
+
+<!-- <p align="center">
+  <img src="/images/research/rtdmd/drone.jpg" width="90%" />
+  <img src="/images/research/rtdmd/rtdmd.png" width="100%" />
+</p> -->
 
 ### Kibo Robot Programming Challenge (April 2023 -- August 2023)
 

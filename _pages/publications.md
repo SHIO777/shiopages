@@ -13,7 +13,7 @@ author_profile: true
 {% include base_path %}
 
 ## Peer-reviewed Journal Publications
-
+1. **塩塚 竜也**, 坂東 麻衣, 外本 伸治, "動的モード分解を用いたドローンのデータ駆動型モデリング," in _日本ロボット学会誌_, 2025 (Early access). [[Paper](https://www.rsj.or.jp/pub/jrsj/advpub/250604-07.html)]
 1. T. Kajikawa, **T. Shiotsuka**, M. Bando, S. Hokamoto,
    "Data-Driven Guidance and Control for Asteroid Landing Based on Real-Time Dynamic Mode Decomposition,"
    in _IEEE Access_ 11, 52622-52635, 2023. [[Paper](https://ieeexplore.ieee.org/document/10125581)]
@@ -22,6 +22,8 @@ author_profile: true
    in _Multiphase Science and Technology_ 33 (4). [[Paper](https://www.dl.begellhouse.com/journals/5af8c23d50e0a883,0d6d6bff49b34316,033be8a2229aa574.html)]
 
 ## Conference Proceedings
+1. 加藤颯太, **塩塚竜也**, 坂東麻衣, 外本伸治, "Flockingを用いたNano-Satellite Swarm," _第69回宇宙科学技術連合講演会_, 札幌, 2025年11月.
+1. Sohta Katoh, **Tatsuya Shiotsuka**, Mai Bando, Shinji Hokamoto, "Nano-Satellite Swarm Using Flocking Algorithm with Online Bayesian Optimization," _76th International Astronautical Congress_, Australia, 2025.
 1. **塩塚 竜也**, 永冨 匠真, 原槙 真也, 田中 諒, 坂東 麻衣, 外本 伸治, "狭小空間でのドローン飛行における空力外乱の定量的評価," _第43回日本ロボット学会学術講演会_, 東京, 2025年9月.
 1. Sohta Katoh, **Tatsuya Shiotsuka**, Mai Bando, Shinji Hokamoto, "Nano-Satellite Swarm using Flocking Algorithm," _35th International Symposium on Space Technology and Science (ISTS)_, Tokushima, 2025.
 1. 加藤颯太, **塩塚竜也**, 坂東麻衣, 外本伸治, "Nano-Satellite Swarm へ向けた Flocking のデータ駆動解析," _第68回宇宙科学技術連合講演会_, 姫路, 2024年11月.
