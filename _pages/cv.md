@@ -36,7 +36,7 @@ redirect_from:
 ---
 
 ## Skills
-- **Programming:** C/C++ (proficient), MATLAB (proficient), Python, LaTeX
+- **Programming:** C/C++, MATLAB, Python, ROS, ROS 2, Gazebo, LaTeX
 - **Version control:** Git
 - **CAD:** SOLIDWORKS
 
