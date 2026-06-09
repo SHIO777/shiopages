@@ -13,7 +13,7 @@ author_profile: true
 {% include base_path %}
 
 ## Peer-reviewed Journal Publications
-1. **塩塚 竜也**, 坂東 麻衣, 外本 伸治, "動的モード分解を用いたドローンのデータ駆動型モデリング," in _日本ロボット学会誌_, 2025 (Early access). [[Paper](https://www.rsj.or.jp/pub/jrsj/advpub/250604-07.html)]
+1. **塩塚 竜也**, 坂東 麻衣, 外本 伸治, "動的モード分解を用いたドローンのデータ駆動型モデリング," in _日本ロボット学会誌_, 2025. [[Paper](https://doi.org/10.7210/jrsj.43.1020)]
 1. T. Kajikawa, **T. Shiotsuka**, M. Bando, S. Hokamoto,
    "Data-Driven Guidance and Control for Asteroid Landing Based on Real-Time Dynamic Mode Decomposition,"
    in _IEEE Access_ 11, 52622-52635, 2023. [[Paper](https://ieeexplore.ieee.org/document/10125581)]

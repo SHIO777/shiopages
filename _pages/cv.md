@@ -75,6 +75,10 @@ redirect_from:
 
 ## Awards
 
+### Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science (April 2026)
+
+- Selected as a JSPS Research Fellow (DC2) [[Website](https://www.jsps.go.jp/j-pd/)].
+
 ### Kyushu University Future Talent Development Scholarship (August 2024)
 
 - Awarded a one-year scholarship for outstanding students capable of designing a new society [[Website](https://www.kyushu-u.ac.jp/ja/admission/fees/scholarship/kyushu-u)].
