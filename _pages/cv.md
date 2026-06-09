@@ -23,12 +23,12 @@ redirect_from:
 
 ## Work experience
 
-### [Quando, Inc.](https://www.quando.jp/) (March 2023 – March 2025)
+### [Quando, Inc.](https://www.quando.jp/) (Mar. 2023 – Mar. 2025)
 
 - Softfare Engineer Intern
 - Developing a video calling application with JavaScript framework React
 
-### [Retail AI X, Inc.](https://www.retail-ai.jp/) (September 2021 – March 2023)
+### [Retail AI X, Inc.](https://www.retail-ai.jp/) (Sep. 2021 – Mar. 2023)
 
 - Retail Data Analysis Intern
 - Analysis of customer purchase data using Python
@@ -43,7 +43,7 @@ redirect_from:
 ---
 
 ## Projects
-### World Robot Summit 2025 (Octorber 2025)
+### World Robot Summit 2025 (Oct. 2025)
 
 - Participated in the World Robot Summit 2025 Harsh Environment F-REI Challenge (Standard Disaster Robotics Drone Challenge), an international robotics competition.
 - Our team developed an telescopic-arm drone system for flight in confined and complex environments, integrating perception, mapping, and flight control.
@@ -59,13 +59,13 @@ redirect_from:
   <img src="/images/research/rtdmd/rtdmd.png" width="100%" />
 </p> -->
 
-### Kibo Robot Programming Challenge (April 2023 -- August 2023)
+### Kibo Robot Programming Challenge (Apr. 2023 -- Aug. 2023)
 
 - Program a robot to fly freely in the International Space Station and perform various missions. Our team won the Japanese national competition and participated in the world competition.
 
   <i class="fa-brands fa-youtube fa-xl"></i>[YouTube](https://www.youtube.com/live/ax4H1NBqTz0?si=6emH0br-hUS0N7vg), <i class="fa-brands fa-github fa-xl"></i>[GitHub](https://github.com/Eager-Hoper/TemplateAPK)
 
-### Mini Car Racing Competition (December 2019 -- October 2020)
+### Mini Car Racing Competition (Dec. 2019 -- Oct. 2020)
 
 - Development of a mini car with an engine to participate in a competition organized by Cao Thang Technical College in Vietnam.
 
@@ -75,11 +75,11 @@ redirect_from:
 
 ## Awards
 
-### Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science (April 2026)
+### Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science (Apr. 2026)
 
 - Selected as a JSPS Research Fellow (DC2) [[Website](https://www.jsps.go.jp/j-pd/)].
 
-### Kyushu University Future Talent Development Scholarship (August 2024)
+### Kyushu University Future Talent Development Scholarship (Aug. 2024)
 
 - Awarded a one-year scholarship for outstanding students capable of designing a new society [[Website](https://www.kyushu-u.ac.jp/ja/admission/fees/scholarship/kyushu-u)].
 
@@ -88,4 +88,4 @@ redirect_from:
 - Funded one-year tuition for a student for academic excellence in aerospace engineering
   [[Website](https://foundation.istat.org/Programs/Scholarships)].
 
-### Dean’s Award, National Institute of Technology, Ariake College (March 2021)
+### Dean’s Award, National Institute of Technology, Ariake College (Mar. 2021)
