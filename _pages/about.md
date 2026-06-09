@@ -25,7 +25,7 @@ in the [Guidance and Control Lab (GCL)](https://www.aero.kyushu-u.ac.jp/gcl/).
 
 ---
 
-2016.4 - 2021.3 &nbsp; Mechanical Engineering, National Institute of Technology, Ariake College
+2016.4 - 2021.3 &nbsp; Mechanical Engineering, National Institute of Technology, Ariake College  
 2021.4 - 2023.3 &nbsp; B.Eng in Aeronautics and Astronautics, Kyushu University  
 2023.4 - 2025.3 &nbsp; M.Eng in Aeronautics and Astronautics, Kyushu University  
 2025.4 - Current &nbsp; Ph.D student in Aeronautics and Astronautics, Kyushu University  
